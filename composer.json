@@ -61,5 +61,12 @@
             "type": "Github Sponsors",
             "url": "https://github.com/sponsors/DarkGhostHunter"
         }
-    ]
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laragear\\Surreal\\SurrealServiceProvider"
+            ]
+        }
+    }
 }
