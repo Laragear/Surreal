@@ -35,7 +35,7 @@
         "guzzlehttp/guzzle": "^7.5.0",
         "jetbrains/phpstorm-attributes": "1.*",
         "mockery/mockery": "^1.5",
-        "orchestra/testbench": "^7.10.2",
+        "orchestra/testbench": "^7.10.2 || ^8.0.0",
         "phpunit/phpunit": "^9.5",
         "nikic/php-parser": "^4.15.1"
     },
